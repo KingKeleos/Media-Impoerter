@@ -91,13 +91,13 @@
   ('base_library.zip',
    'E:\\Programme\\Media-Importer\\build\\media-sorter\\base_library.zip',
    'DATA'),
-  ('lib2to3\\Grammar.txt',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\\lib\\lib2to3\\Grammar.txt',
-   'DATA'),
   ('lib2to3\\PatternGrammar.txt',
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\\lib\\lib2to3\\PatternGrammar.txt',
+   'DATA'),
+  ('lib2to3\\Grammar.txt',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\\lib\\lib2to3\\Grammar.txt',
    'DATA')],
  False,
  False,
